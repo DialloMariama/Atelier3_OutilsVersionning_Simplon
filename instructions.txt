@@ -1,0 +1,14 @@
+
+Instructions pour exécuter le code Python :
+
+1. Assurez-vous d'avoir Python installé sur votre machine.
+
+2. Ouvrez une invite de commande ou un terminal.
+
+3. Accédez au répertoire contenant le fichier "code.py".
+
+4. Pour exécuter le code Python, utilisez la commande suivante :
+
+   python code.py
+
+5. Le résultat de l'addition de deux nombres sera affiché dans la console.
